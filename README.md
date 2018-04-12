@@ -1,2 +1,4 @@
 # hello-world
-Noch eine Ablage
+
+Hallo Menschen!
+Ich will endlich dieses github lernen!
